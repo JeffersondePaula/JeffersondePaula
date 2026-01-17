@@ -15,7 +15,4 @@ I combine my background in **Process Optimization** and **Industrial Efficiency*
 - **Methodologies:** Scrum, Kanban, PDCA (applied to code)
 
 ---
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JeffersondePaula&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersondePaula&layout=compact&theme=dracula"/>
-</div>
+
