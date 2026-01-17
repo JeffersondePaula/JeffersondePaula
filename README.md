@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there, I'm Jefferson de Paula! 👋
 
-<!--
-**JeffersondePaula/JeffersondePaula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Production Engineer** transitioning to **Software Engineering**.
+I combine my background in **Process Optimization** and **Industrial Efficiency** with clean and scalable code logic.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🏭 **Background:** Production Engineering @ Ajinomoto.
+- 💻 **Current Focus:** Java Backend Development & System Architecture.
+- 📚 **Studying:** Analysis and Systems Development (ADS).
+- 🎯 **Goal:** To build robust enterprise systems internationally.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Language:** Java (Core & OOP)
+- **Tools:** Git, GitHub, IntelliJ IDEA
+- **Methodologies:** Scrum, Kanban, PDCA (applied to code)
+
+---
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JeffersondePaula&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersondePaula&layout=compact&theme=dracula"/>
+</div>
